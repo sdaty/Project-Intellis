@@ -1,0 +1,4 @@
+- hardwares
+- Raspbian installation
+- Basic settings on raspbian
+- Arduino software on PC and Libraries
