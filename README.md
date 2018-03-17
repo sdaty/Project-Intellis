@@ -32,11 +32,11 @@ Intellis Project contains modules:
   * Online watch sensor values
    
 - Camera Module
- * Security Cameras on Network
- * Watch from mobile app
+  * Security Cameras on Network
+  * Watch from mobile app
  
 - Scenarios Module
- * Away Home Scenarios
- * At Home Scenarios
- * Climate Scenarios
- * Holiday Scenarios
+  * Away Home Scenarios
+  * At Home Scenarios
+  * Climate Scenarios
+  * Holiday Scenarios
